@@ -1,0 +1,3 @@
+/*.mp4
+  Cache-Control: public, max-age=60, immutable, stale-while-revalidate=2592000
+  CDN-Cache-Control: public, max-age=600, stale-while-revalidate=2592000000
